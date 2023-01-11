@@ -1,0 +1,11 @@
+C:\Users\jwick\source\repos\CFFM Technical Exercises\CFFM Technical Exercises\bin\Debug\CFFM Technical Exercises.exe.config
+C:\Users\jwick\source\repos\CFFM Technical Exercises\CFFM Technical Exercises\bin\Debug\CFFM Technical Exercises.exe
+C:\Users\jwick\source\repos\CFFM Technical Exercises\CFFM Technical Exercises\bin\Debug\CFFM Technical Exercises.pdb
+C:\Users\jwick\source\repos\CFFM Technical Exercises\CFFM Technical Exercises\obj\Debug\CFFM Technical Exercises.csproj.AssemblyReference.cache
+C:\Users\jwick\source\repos\CFFM Technical Exercises\CFFM Technical Exercises\obj\Debug\CFFM Technical Exercises.csproj.SuggestedBindingRedirects.cache
+C:\Users\jwick\source\repos\CFFM Technical Exercises\CFFM Technical Exercises\obj\Debug\CFFM_Technical_Exercises.Form1.resources
+C:\Users\jwick\source\repos\CFFM Technical Exercises\CFFM Technical Exercises\obj\Debug\CFFM_Technical_Exercises.Properties.Resources.resources
+C:\Users\jwick\source\repos\CFFM Technical Exercises\CFFM Technical Exercises\obj\Debug\CFFM Technical Exercises.csproj.GenerateResource.cache
+C:\Users\jwick\source\repos\CFFM Technical Exercises\CFFM Technical Exercises\obj\Debug\CFFM Technical Exercises.csproj.CoreCompileInputs.cache
+C:\Users\jwick\source\repos\CFFM Technical Exercises\CFFM Technical Exercises\obj\Debug\CFFM Technical Exercises.exe
+C:\Users\jwick\source\repos\CFFM Technical Exercises\CFFM Technical Exercises\obj\Debug\CFFM Technical Exercises.pdb
