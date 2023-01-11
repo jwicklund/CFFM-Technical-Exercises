@@ -2,3 +2,9 @@ Running the Application:
 
 - Go to bin/Debug within the CFFM Technical Exercises Folder
 - Double click on the CFFM Technical Exercises application to run the program.
+
+Building the application:
+
+- open a command prompt
+- cd to the cloned project folder 
+- type in cl Program.cs and hit enter
